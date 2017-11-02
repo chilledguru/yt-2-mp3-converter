@@ -47,8 +47,9 @@ There are no limits on filesize and downloads, so you can download unlimited fil
         if(ytId !== false) {
           
           $iframe = $('<iframe>');
-          //$iframe.attr({src:'//www.convertmp3.io/widget/button/?video=https://www.youtube.com/watch?v='+ytId, frameBorder: 0});
-          //$iframe.attr({src:'http://embed.yt-mp3.com/watch?v='+ytId, frameBorder: 0});
+          //enable video buttons
+          //$iframe.attr({src:'https://yt-mp3s.com/@api/button/videos/'+ytId, frameBorder: 0});
+          //enable mp3 buttons
           $iframe.attr({src:'https://yt-mp3s.com/@api/button/mp3/'+ytId, frameBorder: 0});
           $iframe.css({width:'100%', height:'100%'});
           
