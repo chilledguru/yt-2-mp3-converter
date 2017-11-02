@@ -1,4 +1,4 @@
-# yt-2-mp3-converter
+# yt2mp3-converter | Youtube to mp3 converter
 run your own youtube to mp3 converter php script
 
 A php script is developed to simply convert Youtube videos to mp3 and mp4 formats using API service which will allow your users to download YouTube videos to MP3 & MP4 formats. API is free of cost with 100% uptime and API supports multiple high quality MP3 formats like 64, 128, 192, 256, 320 kbps & MP4, WebM, 3Gp for videos format for all devices. 
