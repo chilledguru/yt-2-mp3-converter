@@ -11,7 +11,7 @@ MP3 iFrame:
 <code><iframe src="https://yt-mp3s.com/@api/button/mp3/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
 
 MP4 iFrame:
-<code><iframe class="button-api-frame" src="https://yt-mp3s.com/@api/button/videos/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
+<code><iframe src="https://yt-mp3s.com/@api/button/videos/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
 
 
 Please note that 3r_2lx8NJFU has been used as YouTube-Video-ID with dynamic video id value.
