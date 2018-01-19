@@ -47,7 +47,7 @@ There are no limits on filesize and downloads, so you can download unlimited fil
         if(ytId !== false) {
           
           $iframe = $('<iframe>');
-          $iframe.attr({src:'https://yt-mp3s.com/'+ytId, frameBorder: 0});
+          $iframe.attr({src:'https://yt-mp3s.com/mp3/'+ytId, frameBorder: 0});
           $iframe.css({width:'100%', height:'100%'});
           
           //Remove iframe if one exists (on second url some will exists)
