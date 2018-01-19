@@ -15,6 +15,27 @@ MP4 iFrame:
 <code><iframe src="https://yt-mp3s.com/videos/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
 <img src="https://yt-mp3s.com/images/videos.png">
 
+Audio iFrame:
+<code><iframe src="https://yt-mp3s.com/audiostreams/zB4I68XVPzQ" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
+<img src="https://yt-mp3s.com/images/onlyaudio.png">
+
+MP4 HD 1080p multi format iFrame:
+<code><iframe src="https://yt-mp3s.com/videostreams/zB4I68XVPzQ" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
+<img src="https://yt-mp3s.com/images/onlyvideo.png">
+
+Dirct Download MP3 code:
+<code><?php
+$server_mp3 = file_get_contents('https://yt-mp3s.com/get/mp3/zB4I68XVPzQ');
+echo $server_mp3;
+?></code>
+<img src="https://yt-mp3s.com/images/smp3.png">
+
+Video Player:
+<code><?php
+$player_video = file_get_contents('https://yt-mp3s.com/player/video/zB4I68XVPzQ');
+echo $player_video;
+?></code>
+<img src="https://yt-mp3s.com/images/videoplayer.png">
 
 Please note that 3r_2lx8NJFU has been used as YouTube-Video-ID with dynamic video id value.
 
