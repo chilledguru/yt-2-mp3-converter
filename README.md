@@ -22,12 +22,13 @@ Audio iFrame:
 MP4 HD 1080p multi format iFrame:
 <code><iframe src="https://yt-mp3s.com/videostreams/zB4I68XVPzQ" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
 <img src="https://yt-mp3s.com/images/onlyvideo.png">
+<br>
+<img src="https://image.prntscr.com/image/WjDPkz-FQG_xxgXpzB8x6w.png">
+<br>
+<img src="https://image.prntscr.com/image/fyGhlf-JSFOT0UEaYQ6XKQ.png">
+<br>
+<img src="https://image.prntscr.com/image/RNJ6eV4XR2_ztZpwZypgUw.png">
 
-Dirct Download MP3 code:
-<img src="https://yt-mp3s.com/images/smp3.png">
-
-Video Player:
-<img src="https://yt-mp3s.com/images/videoplayer.png">
 
 Please note that 3r_2lx8NJFU has been used as YouTube-Video-ID with dynamic video id value.
 
