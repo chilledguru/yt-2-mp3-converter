@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>MP3olimp - Youtube to Mp3 Converter</title>
+    <title>YT-MP3s - Youtube to Mp3 Converter</title>
     <!-- <link rel="icon" href="#" type="image/x-icon"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -26,7 +26,7 @@ Conversion would be very quick, click <b><i class="fa fa-download"></i> Download
 <b>2. Is there any file size or download limitations?</b><br />
 There are no limits on filesize and downloads, so you can download unlimited files with no file size limits.<br /><br />
 </span></div>
-<a href="http://mp3olimp.stream" title="Mp3olimp - MP3 Songs Download"><i class="fa fa-download"></i> MP3Olimp</a>
+<a href="https://www.musicpleer.club" title="Musicpleer MP3 Songs Download"><i class="fa fa-download"></i> MUSICPLEER</a>
     </center>
     <!-- <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
@@ -48,7 +48,7 @@ There are no limits on filesize and downloads, so you can download unlimited fil
           
           $iframe = $('<iframe>');
           $iframe.attr({src:'https://yt-mp3s.com/mp3/'+ytId, frameBorder: 0});
-          $iframe.css({width:'100%', height:'100%'});
+          $iframe.css({width:'100%', height:'100px'});
           
           //Remove iframe if one exists (on second url some will exists)
           $('#converter-wrapper').find('iframe').remove()      
