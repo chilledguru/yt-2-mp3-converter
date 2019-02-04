@@ -7,12 +7,18 @@ Conversion is instant even in seconds for hours lenght videos with no wait
 
 Here is a simple iframe code to easily embed to your websites and enjoy best ever converter for free.
 
+New MP3 API:
+<code><iframe src="https://yt-mp3s.com/mp3/YOUTUBE_VIDEO_ID" style="width:100%;height:85px;border:0;" scrolling="yes"></iframe></code>
+
+New MP3 API:
+<code><iframe src="https://yt-mp3s.com/videos/YOUTUBE_VIDEO_ID" style="width:100%;height:85px;border:0;" scrolling="yes"></iframe></code>
+
 MP3 iFrame:
-<code><iframe src="https://yt-mp3s.com/mp3/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
+<code><iframe src="https://yt-mp3s.com/mp3file/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
 <img src="https://yt-mp3s.com/images/mp3.png">
 
 MP4 iFrame:
-<code><iframe src="https://yt-mp3s.com/videos/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
+<code><iframe src="https://yt-mp3s.com/videofile/3r_2lx8NJFU" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></code>
 <img src="https://yt-mp3s.com/images/videos.png">
 
 Audio iFrame:
