@@ -19,6 +19,13 @@
 
   gtag('config', 'UA-116741562-1');
 </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8001520065708566",
+          enable_page_level_ads: true
+     });
+</script>
   </head>
   <body>
     <center><h1>MusicPleer</h1>
