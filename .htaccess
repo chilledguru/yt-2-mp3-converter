@@ -1,0 +1,8 @@
+ErrorDocument 404 https://www.musicpleer.club/
+RewriteEngine On
+# please replce musicpleer.club with your domain and it will redirect your site to www
+RewriteCond %{HTTP_HOST} ^musicpleer.club [NC]
+RewriteRule ^(.*)$ https://www.musicpleer.club/$1 [L,R=301,NC]
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
